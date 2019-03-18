@@ -1,0 +1,15 @@
+.idea
+challenges/*.txt
+record/localstore
+record/bin
+jre
+config/credentials.config
+*.pyc
+.DS_Store
+venv
+.coverage
+coverage.xml
+coverage.tdl
+.pytest_cache
+.cache
+__pycache__

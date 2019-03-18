@@ -1,0 +1,4 @@
+tdl-client-python==0.26.1
+coverage==4.5.1
+pytest==2.9.1
+pytest-cov==2.1.0
